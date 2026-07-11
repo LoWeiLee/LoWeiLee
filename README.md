@@ -16,13 +16,12 @@ Before academia, I spent **12 years as a civil servant**, so my research agenda 
 
 | 專案 | 說明 What it is |
 |---|---|
+| [academic-ai-workflow](https://github.com/LoWeiLee/academic-ai-workflow) | **AI 輔助學術研究工作流** — an open starter kit for AI-assisted academic research: a seven-stage workflow (research design → literature search → analysis → synthesis → drafting → review → thematic analysis) with built-in citation-integrity discipline and governance rules. 繁中為主、附英文文件 |
 | [duoduorun](https://github.com/LoWeiLee/duoduorun) | **多多快跑** — a free, browser-based statistics tool for students (runs entirely client-side; results validated against SPSS/R) |
 | [FIRE](https://github.com/LoWeiLee/FIRE) | **投資工具箱** — client-side personal finance toolbox: FIRE simulation on 150 years of market history, portfolio deviation diagnostics, trade journaling |
 | [homepage](https://github.com/LoWeiLee/homepage) | Source of my academic homepage |
 
 另有「中央機關 AI 應用調查查詢系統」（153 筆中央機關 AI 應用案例互動儀表板）供研究團隊內部使用，不對外開放。
-
-**Coming soon** 🚧 `academic-ai-workflow` — an open starter kit for AI-assisted academic research: a seven-stage research workflow (research design → literature search → analysis → synthesis → drafting → review → thematic analysis) with built-in citation-integrity discipline and governance rules. 繁中為主、附英文文件。
 
 ---
 
